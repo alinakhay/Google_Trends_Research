@@ -1,2 +1,2 @@
-# Google_Trends_Research
+# Google Trends Research
 Google Trending terms research
